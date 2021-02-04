@@ -1,6 +1,6 @@
 # SimpleMotorwayCTMSIM
 
-This is a simple motorway simulator with an on-ramp (mainly created for students to further develop) based upon cell transmission model (CTM). The CTM computation is implemented mainly based on work by Kurzhanskiy and Varaiya (2008). 
+This is a simple motorway simulator developed in MATLAB (mainly prepared for students with little experience on computer coding) with an on-ramp based upon cell transmission model (CTM). The CTM computation is implemented mainly based on work by Kurzhanskiy and Varaiya (2008). 
 
 - Reference: 
 Kurzhanskiy A and Varaiya P (2008) CTMSIM - An Interactive macroscopic freeway traffic simulator. Research Report, EECS, UC Berkeley. 
